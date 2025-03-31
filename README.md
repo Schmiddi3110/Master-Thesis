@@ -10,6 +10,8 @@ Ensure you have the following installed:
 
 - Linux/macOS terminal (or WSL for Windows users)
 - Bash shell
+- cuda (configure used GPU in `/Code/.env` default is cuda:0)
+
 
 ## Setting Up Execution Permissions
 
