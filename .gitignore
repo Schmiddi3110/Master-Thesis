@@ -1,0 +1,47 @@
+
+/environment
+*.pth
+/models/__pycache__
+/models/__pycache__
+*.pyc
+/models/__pycache__
+*.pyc
+/Code/environment
+# Ignore auxiliary and temporary files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.lot
+*.lof
+*.nav
+*.snm
+*.bbl
+*.blg
+
+# Ignore output files
+*.dvi
+*.ps
+
+# Ignore backup files
+*~
+*.bak
+*.sav
+
+# Ignore editor-specific directories
+.vscode/
+.idea/
+.DS_Store
+/.venv
+/.venv
+/Code/dataset
+*.npz
+*.pt
+/Keras/dataset
+/Code/TimeSeriesModels/PenDigits/Models
+/Code/TimeSeriesModels/WalkingSittingStanding/Models
+*.pkl
+/venv
